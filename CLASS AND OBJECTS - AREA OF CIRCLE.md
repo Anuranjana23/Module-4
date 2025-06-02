@@ -1,6 +1,6 @@
 # ExNo.4(d). CLASS AND OBJECTS- AREA OF CIRCLE
-- **Name:** Naveen P
-- **Registration Number:** 212222050039
+- **Name:** S.Y.Anuranjana 
+- **Registration Number:** 212222050006
 
 ### AIM
 To write Python Program to take the radius from the user and find the area of the circle using class name 'umbrella' and function name 'rain'
