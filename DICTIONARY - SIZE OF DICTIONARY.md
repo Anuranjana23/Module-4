@@ -1,6 +1,6 @@
 # ExNo.4a DICTIONARY- SIZE OF DICTIONARY
-- **Name:** Naveen P
-- **Registration Number:** 212222050039
+- **Name:** S.Y.Anuranjana
+- **Registration Number:** 212222050006
 ### AIM
 To write a  python program to print the size of dictionary using getsizeof() from sys module.
 ### ALGORITHM
