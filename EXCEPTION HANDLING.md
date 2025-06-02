@@ -1,6 +1,6 @@
 # Exp.No:4(b)	EXCEPTION- EXCEPTION HANDLING
-- **Name:** Naveen P
-- **Registration Number:** 212222050039
+- **Name:** S.Y.Anuranjana
+- **Registration Number:** 212222050006
 ### AIM
 To create a short program that prompts the user for a list of grades separated by commas, Split the string into individual grades and use a list comprehension to convert each string to an integer, use a try statement to inform the user when the values they entered cannot be converted.
 ### ALGORITHM
