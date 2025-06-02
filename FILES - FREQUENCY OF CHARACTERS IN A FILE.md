@@ -1,6 +1,6 @@
 # EXNo.4C File Handling -Count the frequency of each character in a File
-- **Name:** Naveen P
-- **Registration Number:** 212222050039
+- **Name:** S.Y.Anuranjana
+- **Registration Number:** 212222050006
 ### AIM
 To write a Python program to read a file and count the frequency of each character in it.
 ### ALGORITHM
