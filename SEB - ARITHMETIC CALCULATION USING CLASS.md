@@ -1,6 +1,6 @@
 # Exp.No:4(e)	SEB- ARITHMETIC CALCULATION USING CLASS
-- **Name:** Naveen P
-- **Registration Number:** 212222050039
+- **Name:** S.Y.Anuranjana
+- **Registration Number:** 212222050006
 
 ### AIM
 To write a python program to perform addition and division operation using class and if,elif..
